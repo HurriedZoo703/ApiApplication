@@ -1,0 +1,10 @@
+# Configuración para despliegue en Render
+services:
+  - type: web
+    name: admin-panel-api
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production

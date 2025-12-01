@@ -1,0 +1,45 @@
+{
+  "usuarios": [
+    {
+      "identificacion": "1003064513",
+      "nombres": "Iván Manuel",
+      "apellidos": "Anaya Ramos",
+      "fechaNacimiento": "2008-02-05",
+      "genero": "Masculino",
+      "email": "ivan.manuelanaya3@gmail.com",
+      "createdAt": "2025-12-01T18:38:17.581Z",
+      "id": 3
+    },
+    {
+      "identificacion": "1234567890",
+      "nombres": "Juan Actualizado",
+      "apellidos": "Pérez García",
+      "fechaNacimiento": "2005-02-05",
+      "genero": "Femenino",
+      "email": "juan.nuevo@email.com",
+      "updatedAt": "2025-12-01T19:13:42.227Z",
+      "id": 4
+    },
+    {
+      "identificacion": "HUX 87L",
+      "nombres": "pedro",
+      "apellidos": "lopez",
+      "email": "ciquitrilla@email.com",
+      "fechaNacimiento": "2004-02-27",
+      "genero": "masculino",
+      "createdAt": "2025-12-01T19:21:11.751Z",
+      "id": 5,
+      "updatedAt": "2025-12-01T19:25:34.717Z"
+    }
+  ],
+  "proyectos": [
+    {
+      "nombre": "kikeflow",
+      "descripcion": "hola",
+      "estado": "En Desarrollo",
+      "fechaInicio": "2025-11-12",
+      "updatedAt": "2025-12-01T19:25:48.007Z",
+      "id": 1
+    }
+  ]
+}
